@@ -1,2 +1,4 @@
 i am master
-i am login
+i am login 
+i am payment
+footer1
